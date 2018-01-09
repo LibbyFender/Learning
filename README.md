@@ -1,2 +1,2 @@
 # Learning
-General Assembly pre-work learning tools
+General Assembly Pre-work learning tool
